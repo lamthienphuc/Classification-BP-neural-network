@@ -7,20 +7,22 @@ Finally, the improved BP model will be compared with common machine learning and
 
 ![1_bhFifratH9DjKqMBTeQG5A](https://github.com/lamthienphuc/Classification-BP-neural-network/assets/130354234/b832eb05-240a-48a3-9530-14b42c5334a1)
 
-Input: can be anything you want to compare, caculations, classifications, regression and predictions
-Hidden layer input: like in the example, you will the differents between cat & dog or something special you know about it
-Output: Based on the probabilities, the network assigns the input to the class with the highest probability or estimate of the target value based on the input data.
+- Input: can be anything you want to compare, caculations, classifications, regression and predictions
+
+- Hidden layer input: like in the example, you will the differents between cat & dog or something special you know about it
+
+- Output: Based on the probabilities, the network assigns the input to the class with the highest probability or estimate of the target value based on the input data.
 
 Benefits:
 
-Ability to learn complex relationships in data.
-Ability to process large amounts of data.
-Ability to generalize from training data to new data.
+- Ability to learn complex relationships in data.
+- Ability to process large amounts of data.
+- Ability to generalize from training data to new data.
 
 Limitations:
 
-Requires a lot of data to train.
-Can suffer from overfitting and underfitting.
+- Requires a lot of data to train.
+- Can suffer from overfitting and underfitting.
 ## Improvement Details:
 
 - 1. Change the activation function from the commonly used sigmoid function to the Relu function<br>
